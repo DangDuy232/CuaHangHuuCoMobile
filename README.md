@@ -1,4 +1,4 @@
-🥦 Cửa Hàng Hữu Cơ App
+##🥦 Cửa Hàng Hữu Cơ App
 
 Ứng dụng di động đa nền tảng (Android/iOS) được phát triển bằng **React Native + Expo**, hỗ trợ quản lý và hiển thị nội dung với giao diện trực quan.  
 Ứng dụng được xây dựng với **Redux** để quản lý trạng thái và **React Navigation** để điều hướng giữ
@@ -23,11 +23,10 @@
 ---
 
 ## 📸 Demo
-👉 (Chèn ảnh chụp màn hình ứng dụng hoặc link video demo tại đây)
+👉 [https://github.com/DangDuy232/CuaHangHuuCoMobile/blob/main/README.md]
 
 ---
 
-## 👤 Tác giả
-- Nguyễn Văn A – Sinh viên CNTT  
-- 📧 Email: nguyenvana@example.com  
-- 🌐 GitHub: [github.com/nguyenvana](https://github.com/nguyenvana)
+## 👤 User:
+- 📧 Email: ngodanhduy29112003.com  
+- 🌐 GitHub: [https://github.com/DangDuy232]
